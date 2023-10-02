@@ -1,0 +1,51 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "RestapiApplication",
+            "request": "launch",
+            "mainClass": "com.projetoX.RestAPI.RestapiApplication",
+            "projectName": "RestAPI"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-RestapiApplication<RestAPI>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.projetoX.RestAPI.RestapiApplication",
+            "projectName": "RestAPI",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-RestapiApplication<RestAPI>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.projetoX.RestapiApplication",
+            "projectName": "RestAPI",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-RestapiApplication<restapi>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.projetoX.RestapiApplication",
+            "projectName": "restapi",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-RestapiApplication<restapi>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.projetoX.RestAPI.RestapiApplication",
+            "projectName": "restapi",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
