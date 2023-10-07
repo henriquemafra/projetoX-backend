@@ -9,10 +9,10 @@
 - Instale e configure o MySQL Server.
 - Configure o endereço e a porta no padrão, crie o username e password conforme o padrão atual do projeto que é:
 
-spring.datasource.url=jdbc:mysql://localhost:3306/database
-spring.datasource.username=root
-spring.datasource.password=root
-
+localhost:3306
+dbName: database
+username: root
+password: root
 
 ## Segundo Passo:
 
